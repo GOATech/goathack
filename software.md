@@ -9,6 +9,10 @@ The Noun Project: https://thenounproject.com/
 
 Material Components: https://github.com/material-components/material-components
 
+Visual Paradigm: https://www.visual-paradigm.com/
+
+Sketch: https://www.sketch.com/
+
 ## Hackathon Starter Kits
 Sahat Hackathon Starter: https://github.com/sahat/hackathon-starter
 
@@ -107,3 +111,5 @@ Riot.im:
 Discourse: http://forum.goatech.org/
 
 Slack: www.slack.com/
+
+Trello: https://trello.com/en-US
