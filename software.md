@@ -81,6 +81,7 @@ Cloud.gov: https://cloud.gov/
 
 ## GIS Tools
 * ArcGIS Online: https://www.arcgis.com/
+* QGIS: https://qgis.org
 
 ## Web Sandbox and Deployment Platforms
 Cloud Foundry: https://www.cloudfoundry.org/
