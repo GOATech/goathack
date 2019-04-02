@@ -59,11 +59,13 @@ Daily precipitation data: https://www.weather.gov/marfc/DailyPrecipitation
 Predicted precipitation data: https://water.weather.gov/precip/download.php
 
 ## External Datasets:
-https://github.com/cwfid/dataset
+Haug & Ostermann's Crop/Weed Field Image Dataset: https://github.com/cwfid/dataset
 
-https://livingatlas.arcgis.com/en/browse/
+ESRI Living Atlas, Geospatial Datasets: https://livingatlas.arcgis.com/en/browse/
 
-https://github.com/sudokita/ClimateActionR
+UCIrvine's Climate Action Workshop, relevant datasets: https://github.com/strongh/ClimateActionR
+
+## A subset of UC Irvine's machine learning datasets related to agriculture
 
 Iris: https://archive.ics.uci.edu/ml/datasets/Iris
 
