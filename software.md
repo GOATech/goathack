@@ -105,6 +105,11 @@ SAGE:
 Cover Crop Decision Support Tools:
 * most recent prototype: http://volcanic.cs.umd.edu/ 
 
+Edge Collective:
+* Quahog: http://edgecollective.io/quahog.html
+* List of other projects can be found here: http://edgecollective.io/
+* Proponent of Cabal: https://github.com/nikolaiwarner/cabal-desktop-mini
+
 ## Communication
 Riot.im: 
 * application: https://about.riot.im/
