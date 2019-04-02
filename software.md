@@ -13,6 +13,9 @@ Visual Paradigm: https://www.visual-paradigm.com/
 
 Sketch: https://www.sketch.com/
 
+Database Diagramming: https://dbdiagram.io/home
+
+
 ## Hackathon Starter Kits
 Sahat Hackathon Starter: https://github.com/sahat/hackathon-starter
 
