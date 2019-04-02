@@ -54,15 +54,15 @@ PostGres App: https://postgresapp.com/
 PostGrest API: http://postgrest.org/en/v5.2/
 
 ## Web Frameworks
-django:
+Django:
 * download: https://www.djangoproject.com/
 * tutorial: https://docs.djangoproject.com/en/2.1/intro/
 
-drupal: https://www.drupal.org/
+Drupal: https://www.drupal.org/
 
-bootstrap: https://www.drupal.org/
+Bootstrap: https://www.drupal.org/
 
-wordpress: www.wordpress.com/
+Wordpress: www.wordpress.com/
 
 Node Red: https://nodered.org/
 
@@ -94,7 +94,7 @@ FarmOS:
 * github: https://github.com/farmOS
 
 OurSci:
-* webstie: http://blog.our-sci.net/
+* website: http://blog.our-sci.net/
 * gitlab: https://gitlab.com/our-sci
 
 SAGE:
@@ -102,6 +102,8 @@ SAGE:
 * plant database: http://sage-pdb.herokuapp.com
 * github: https://github.com/julietnpn/sage/
 
+Cover Crop Decision Support Tools:
+* most recent prototype: http://volcanic.cs.umd.edu/ 
 
 ## Communication
 Riot.im: 
