@@ -1,6 +1,9 @@
 # Datasets for GOAT:Hack
 
 ## Data inventories:
+
+Ag Data Commons: https://data.nal.usda.gov/
+
 USDA data lists by agency: https://www.usda.gov/topics/data
 
 NAL database of databases: https://www.nal.usda.gov/afsic/databases-0
@@ -9,12 +12,12 @@ USDA data on data.gov: https://catalog.data.gov/organization/usda-gov
 
 Agriculture & Food on data.cov: https://catalog.data.gov/dataset?groups=agriculture8571#topic=food_navigation
 
-## ARS:
+## Agricultural Research Service, ARS:
 Research datasets: https://www.ars.usda.gov/research/datasets/ 
 
 AGCROS: https://agcros-usdaars.opendata.arcgis.com/
 
-## NRCS
+## Natural Resources Conservation Service, NRCS:
 PLANTS database: https://plants.usda.gov/java/
 
 Web Soil Survey: https://websoilsurvey.nrcs.usda.gov/app/#
@@ -23,29 +26,35 @@ Soil Data Access: https://sdmdataaccess.nrcs.usda.gov/
 
 Soil Climate Analysis: https://www.wcc.nrcs.usda.gov/scan/
 
-## RMA
-https://www.rma.usda.gov/
+## Risk Management Agency:
 
-https://www.rma.usda.gov/Topics/Cover-Crops
+National Fact Sheets: https://www.rma.usda.gov/Topics/National-Fact-Sheets
 
-https://webapp.rma.usda.gov/apps/actuarialinformationbrowser2020/CropCriteria.aspx
+Cover Crop infromation: https://www.rma.usda.gov/Topics/Cover-Crops
 
-## NASS
+Actuarial Information: https://webapp.rma.usda.gov/apps/ActuarialInformationBrowser/Default.aspx
+
+## National Agricultural Statistics Service:
+
+Ag Census, Demograpyhics, Crops, etcc. All Data: https://www.nass.usda.gov/Data_and_Statistics/index.php
+
+Commodity Reports: https://www.nass.usda.gov/Publications/
+
 Cropscape: https://nassgeodata.gmu.edu/CropScape/
 
 Annual CDLs: https://www.nass.usda.gov/Research_and_Science/Cropland/Release/index.php
 
-## NAL:
-Thesaurus & Glossary: https://agclass.nal.usda.gov/about.shtml
+## National Agriculture Library:
+Food and Nutrient Database: https://ndb.nal.usda.gov/ndb/
 
-agdatacommons (not working) https://data.nal.usda.gov/
+Thesaurus & Glossary: https://agclass.nal.usda.gov/about.shtml
 
 Long Term Agricultural Research: https://ltar.nal.usda.gov/
 
 ## NIFA:
 Current ag research: https://cris.nifa.usda.gov/search.html
 
-## USGS
+## USGS:
 Water data: https://waterdata.usgs.gov/nwis
 
 ## NASA
