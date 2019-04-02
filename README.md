@@ -1,6 +1,6 @@
 # GOAT:Hack Repository
 
-This is a reference repository containing links to resources for use before, during, and after GOAT:Hack events for project onboarding, design, and management.
+This is a reference repository containing links to resources for use before, during, and after GOAT:Hack events for project onboarding, design, and management. This repository is a GOAT community resource.
 
 ## How to use this repository
 
@@ -13,3 +13,4 @@ This is a reference repository containing links to resources for use before, dur
 1. We encourage you to contribute!!!
 2. Only add references that are relevant to GOAT:Hack
 3. Do not remove other references unless it has been agreed by the community to do so (for example via discussion on RIOT.im)
+4. Be swift. Do not leave the document open so that other people can contribute.
