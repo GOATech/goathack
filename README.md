@@ -16,4 +16,4 @@ The Gathering for Open Ag Tech (GOAT) is an ad-hoc gathering of technologists an
 1. We encourage you to contribute!!!
 2. Only add references that are relevant to GOAT:Hack
 3. Do not remove other references unless it has been agreed by the community to do so (for example via discussion on RIOT.im: https://riot.im/app/#/room/#goatech:matrix.org)
-4. Be swift. Do not leave the document open so that other people can contribute.
+4. Be careful but swift with your edits. Do not leave the document open so that other people can contribute.
