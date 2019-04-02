@@ -2,6 +2,9 @@
 
 This is a reference repository containing links to resources for use before, during, and after GOAT:Hack events for project onboarding, design, and management. This repository is a GOAT community resource.
 
+## Background
+The Gathering for Open Ag Tech (GOAT) is an ad-hoc gathering of technologists and agriculturalists to collaborate, and create a vision for a fully open agricultural future. GOAT members endeavor to support ag-related organizations trying to solve technical problems while keeping it free and open.
+
 ## How to use this repository
 
 ### Before GOAT:Hack
