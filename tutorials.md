@@ -13,9 +13,11 @@ Edge Collective:
 * Open Ag Sensor Tech: https://docs.google.com/presentation/d/1xqRRRCkn0htaruaOx9vTPoWPM0A6YDzVwaqUTrJNDo0/edit 
 * List of other projects can be found here: http://edgecollective.io/
 
-Peer to Peer Tech:
+### Peer to Peer tech options
+
+The following are some very promising projects in the realm of 'peer to peer' networking / filesharing / archiving / mapping technologies.  Several folks in GOAT have seen potential applications to data sharing and communications in research and in farming contexts - especially in conditions of intermittent connectivity, or to avoid commercial lock-in with proprietary  vendors (e.g. DropBox or Google). 
 * [Dat Project](https://datproject.org/) -- peer to peer filesharing -- opensource 'Dropbox' alternative
-* [Cabal]((https://cabal-club.github.io/) -- experimental p2p chat
+* [Cabal](https://cabal-club.github.io/) -- experimental p2p chat
 * [Kappa Workshop](https://kappa-db.github.io/workshop/build/01.html) -- quick onboarding around underlying p2p datasharing protocol
 * [Mapeo](https://www.digital-democracy.org/mapeo/) -- off-grid, p2p mapping used with indigenous communities (applications to rural farming!)
 * [Beaker Browser](https://beakerbrowser.com/) -- p2p browser tech
