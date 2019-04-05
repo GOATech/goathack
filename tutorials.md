@@ -14,10 +14,11 @@ Edge Collective:
 * List of other projects can be found here: http://edgecollective.io/
 
 Peer to Peer Tech:
-* [Dat Project (peer to peer filesharing)](https://datproject.org/)
-* [Cabal (peer to peer chat)](https://cabal-club.github.io/)
-* [Mapeo (p2p, offline mapping)](https://www.digital-democracy.org/mapeo/)
-* [Beaker Browser (p2p browser)](https://beakerbrowser.com/)
+* [Dat Project](https://datproject.org/) -- peer to peer filesharing -- opensource 'Dropbox' alternative
+* [Cabal]((https://cabal-club.github.io/) -- experimental p2p chat
+* [Kappa Workshop](https://kappa-db.github.io/workshop/build/01.html) -- quick onboarding around underlying p2p datasharing protocol
+* [Mapeo](https://www.digital-democracy.org/mapeo/) -- off-grid, p2p mapping used with indigenous communities (applications to rural farming!)
+* [Beaker Browser](https://beakerbrowser.com/) -- p2p browser tech
 
 ### Development Environment and Installation Guides
 PostgreSQL on OSX: https://www.codementor.io/engineerapart/getting-started-with-postgresql-on-mac-osx-are8jcopb
