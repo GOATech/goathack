@@ -91,6 +91,9 @@ Cloud Foundry: https://www.cloudfoundry.org/
 
 Azure: https://azure.microsoft.com/en-us/
 
+## Data Collection
+Open Data Kit: https://opendatakit.org/
+
 ## GOAT Tools
 FarmOS: 
 * website: farmOS.org
