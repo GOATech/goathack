@@ -5,6 +5,10 @@ FarmOS:
 * User Guide: https://farmos.org/guide/
 * API: https://farmos.org/development/api/
 
+Bayou (lightweight online database sensor repo, based on Phant):
+* online example: http://142.93.123.71:8080/
+* phant codebase (on which Bayou is based): https://github.com/sparkfun/phant
+
 SAGE:
 * development environment: https://github.com/julietnpn/sage/wiki/Setting-up-and-using-the-development-environment
 
