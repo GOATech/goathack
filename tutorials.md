@@ -18,7 +18,7 @@ Edge Collective:
 The following are some very promising projects in the realm of 'peer to peer' networking / filesharing / archiving / mapping technologies.  Several folks in GOAT have seen potential applications to data sharing and communications in research and in farming contexts - especially in conditions of intermittent connectivity, or to avoid commercial lock-in with proprietary  vendors (e.g. DropBox or Google). 
 * [Dat Project](https://datproject.org/) -- peer to peer filesharing -- opensource 'Dropbox' alternative
 * [Cabal](https://cabal-club.github.io/) -- experimental p2p chat
-* [Kappa Workshop](https://kappa-db.github.io/workshop/build/01.html) -- quick onboarding around underlying p2p datasharing protocol
+* [Kappa Workshop](https://kappa-db.github.io/workshop/build/01.html) -- quick tutorial for folks to get started developing with  p2p datasharing
 * [Mapeo](https://www.digital-democracy.org/mapeo/) -- off-grid, p2p mapping used with indigenous communities (applications to rural farming!)
 * [Beaker Browser](https://beakerbrowser.com/) -- p2p browser tech
 
