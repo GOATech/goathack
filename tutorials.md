@@ -10,6 +10,7 @@ SAGE:
 
 Edge Collective:
 * Quahog: http://edgecollective.io/quahog.html
+* Open Ag Sensor Tech: https://docs.google.com/presentation/d/1xqRRRCkn0htaruaOx9vTPoWPM0A6YDzVwaqUTrJNDo0/edit 
 * List of other projects can be found here: http://edgecollective.io/
 
 ### Development Environment and Installation Guides
