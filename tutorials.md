@@ -13,6 +13,12 @@ Edge Collective:
 * Open Ag Sensor Tech: https://docs.google.com/presentation/d/1xqRRRCkn0htaruaOx9vTPoWPM0A6YDzVwaqUTrJNDo0/edit 
 * List of other projects can be found here: http://edgecollective.io/
 
+Peer to Peer Tech:
+* [Dat Project (peer to peer filesharing)](https://datproject.org/)
+* [Cabal (peer to peer chat)](https://cabal-club.github.io/)
+* [Mapeo (p2p, offline mapping)](https://www.digital-democracy.org/mapeo/)
+* [Beaker Browser (p2p browser)](https://beakerbrowser.com/)
+
 ### Development Environment and Installation Guides
 PostgreSQL on OSX: https://www.codementor.io/engineerapart/getting-started-with-postgresql-on-mac-osx-are8jcopb
 
