@@ -1,4 +1,4 @@
-# Projects for GOAT:Hack @ Organic
+# GOAT:Hack @ Organic
 
 ## Vision
 
