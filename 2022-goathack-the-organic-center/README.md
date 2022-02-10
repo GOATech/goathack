@@ -9,6 +9,9 @@ Here's a [live spreadsheet](https://docs.google.com/spreadsheets/d/1Wm81T31YwIWF
 2. Sign up for a team
 3. View the mentor list/hours
 
+Here's the discussion forum thread:
+[http://forum.goatech.org/t/hack-organic-join-us-and-share-your-project-ideas/1028](http://forum.goatech.org/t/hack-organic-join-us-and-share-your-project-ideas/1028)
+
 ## Projects
 
 ## Template Project
