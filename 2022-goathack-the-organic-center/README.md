@@ -1,6 +1,31 @@
 # GOAT:Hack @ Organic
 
 ## Vision
+The goal of a Hack@Organic is to bring together a multidisciplinary cohort of researchers, designers, developers, and agricultural practitioners to develop equitable, open source technical infrastructure that enables research, adoption, and evaluation of organic agricultural practices.
+
+## Challenge Areas
+
+### Tracking ecosystem service goals
+
+Ensuring that a farm is supporting a healthy ecosystem requires tracking of sustainability goals. These tools would target variables such as soil health, carbon sequestration, biodiversity, etc.
+
+### Enabling strategies to support ecosystem services
+
+In addition to tracking ecosystem service goals, many organic farmers flag a need for tools to support better support farming in a way that enhances ecosystem services. For example, the open source design of the roller crimper, developed by the Rodale Institute, has led to a proliferation of tools(link is external) focused on supporting organic farmers reduce tillage.
+
+### Humanity-focused robotic and sensing technologies
+
+Many current robotic and sensing technologies are developed without input from organic famers, with the goal of increasing tech industry profits. Some companies include proprietary software, requiring farmers to use repair facilities owned by the machinery’s manufacturer or retailer rather than giving farmers the autonomy to repair their own equipment. Additionally, these equipment often have the sole focus of increased yield, without prioritizing farmers and farmworkers. These AgTech tools can exacerbate inequalities in the food system rather than improving farmer livelihoods.
+
+While organic farmers cite labor burden needs such as on-farm monitoring, weed control and harvest, systems that address these challenges must also be developed in collaboration with organic farmer needs, be open source, useable and affordable, and incorporate support of farmer and farmworker communities.
+
+### Reducing dependence on proprietary software for compliance, supply chain traceability, and record-keeping
+
+Organic operations are required to track detailed information for organic certification and compliance. They also have the additional burden of fraud prevention, as the industry is increasingly concerned with mitigate and prevent the occurrence of organic fraud. However, current proprietary software targeted at streamlining tracking for traceability and compliance are costly for organic farmers, and may collect personal or commercially sensitive data. Additionally, some contracts may lock farmers into a specific service provider by preventing them from sharing historical data with other providers. Open-source, useable solutions are needed that support farmer’s livelihoods while allowing them to maintain data sovereignty.
+
+### Support resilience in regional food systems
+
+The COVID pandemic has highlighted the need for supporting regional food supply pathways to make them more resilient to future disturbances.  The ramifications of a pandemic-based disruption to local food systems include: labor shortages(link is external) as workers fall ill; a shift in consumer preferences toward online purchasing and curbside pickup; reduced traffic(link is external) and cancellation of farmers’ markets due social distancing; unequal access to healthy foods; and increases in food waste(link is external) as farmers lose access to traditional distribution channels. Learn more through Informatics for Community Food Resilience
 
 ## Logistics Documents
 
