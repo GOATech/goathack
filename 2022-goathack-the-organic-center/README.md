@@ -39,7 +39,7 @@ Sign up for a project pitch during the hackathon here: [project pitches](https:/
 Discuss your project idea in our discussion forum thread:
 [share and discuss your project ideas pre-hackathon](http://forum.goatech.org/t/hack-organic-join-us-and-share-your-project-ideas/1028)
 
-Agenda for the hackathon can be found her: [agenda](https://docs.google.com/document/d/1gNj4GqKN5YuxVVgDAUrLyZ5zjEtKuERU/edit?usp=sharing&ouid=108499485544010937692&rtpof=true&sd=true)
+Agenda for the hackathon can be found here: [agenda](https://docs.google.com/document/d/1gNj4GqKN5YuxVVgDAUrLyZ5zjEtKuERU/edit?usp=sharing&ouid=108499485544010937692&rtpof=true&sd=true)
 
 ## Projects
 
