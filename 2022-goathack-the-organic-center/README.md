@@ -1,6 +1,13 @@
 # Projects for GOAT:Hack @ Organic
 
-## Vision: The Reconfigurable Open-Ag Research Pipeline
+## Vision
+
+## Logistics Documents
+
+Here's a [live spreadsheet](https://docs.google.com/spreadsheets/d/1Wm81T31YwIWF5oM4YS60Ae_UE4gtN7SBfU0njq6WXdg/edit?usp=sharing) that allows you to:
+1. Know who's participating
+2. Sign up for a team
+3. View the mentor list/hours
 
 ## Projects
 
